@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 1C Logo Shape approximation in Red -->
+    <path
+        android:fillColor="#ED1C24"
+        android:pathData="M25,25h10v25h-10z M40,25c0,0 25,0 25,12s-25,12 -25,12h25v10h-35c0,0 0,-25 10,-34" />
+    <!-- Placeholder for text "ТРЕНАЖЕР" if it were a vector, but simple shapes for now -->
+    <path
+        android:fillColor="#ED1C24"
+        android:pathData="M20,70h68v15h-68z" />
+</vector>
